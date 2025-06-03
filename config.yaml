@@ -1,7 +1,9 @@
-baseURL: "https://example.org/"
+baseURL: "https://socialinsighttools.netlify.app/"
 languageCode: "en-us"
 title: "Social Insight Tools"
-theme: "github.com/apvarun/digital-garden-hugo-theme"
+module:
+  imports:
+    - path: github.com/apvarun/digital-garden-hugo-theme
 
 googleAnalytics: "UA-PROPERTY_ID"
 
