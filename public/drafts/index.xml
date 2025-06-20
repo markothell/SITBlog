@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Social Insight Tools</title>
+    <title>Design Your Own Maps on Social Insight Tools</title>
     <link>http://localhost:1313/drafts/</link>
-    <description>Recent content in Homepage on Social Insight Tools</description>
+    <description>Recent content in Design Your Own Maps on Social Insight Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/drafts/index.xml" rel="self" type="application/rss+xml" />
@@ -15,45 +15,24 @@
       <description>We refer to this concept as Social Algorithms because they concern interactions between humans and evolve in concert with the knowledge of the community.</description>
     </item>
     <item>
-      <title>Contrast &#43; Continuity</title>
-      <link>http://localhost:1313/drafts/contrast-continuity/</link>
+      <title>Conceptual Maps</title>
+      <link>http://localhost:1313/drafts/conceptual-maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/drafts/contrast-continuity/</guid>
-      <description>two ingredients for human social cohesion</description>
+      <guid>http://localhost:1313/drafts/conceptual-maps/</guid>
+      <description>&lt;p&gt;Emotional Intelligence Quadrants&#xA;These four quadrants of emotional intelligence consist of self-awareness, self-management, social awareness, and relationship management. Understanding and mastering these emotional intelligence quadrants is essential for improving personal and professional situations alike, enhancing one&amp;rsquo;s ability to regulate emotions, improve social interactions, and develop stronger relationships. SintellyLinkedIn&#xA;The axes are: Internal vs. External and Recognition vs. Regulation, creating four areas focused on emotional competency.&#xA;Attachment Style Grid&#xA;The upper left section is labeled secure. It is located between low avoidance and low anxiety. Secure attachment is marked by these two things: low relational avoidance and low relational anxiety. LindsaybramanNeurolaunch&#xA;This maps relationships along Attachment Anxiety vs. Attachment Avoidance axes, creating four relationship patterns:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Games That Matter</title>
-      <link>http://localhost:1313/drafts/games/</link>
+      <title>How to Fall in Love or The Limits of Social Algorithms</title>
+      <link>http://localhost:1313/drafts/how-to-fall-in-love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/drafts/games/</guid>
-      <description>let&amp;rsquo;s play</description>
-    </item>
-    <item>
-      <title>Homepage</title>
-      <link>http://localhost:1313/drafts/_index2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/drafts/_index2/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/images/01_homepage/convergence.png&#34; alt=&#34;Context Convergence&#34; style=&#34;display:block; margin-left:17%; width:auto; max-width:40%;&#34; /&gt;&#xA;&lt;p&gt;Social Insight Tools&#xA;A blog and experimental space by markothell&#xA;Every group that &amp;ldquo;just clicks&amp;rdquo; is running the same program&#xA;You know the feeling. The meeting where everything flows. The workshop where strangers become collaborators. The moment when a group suddenly gets it together.&#xA;We call it chemistry, emergence, collective intelligence. But what if it&amp;rsquo;s more like electricity - a force that was always there, waiting for us to build the right tools to see it?&#xA;I&amp;rsquo;m building tools to decode human coordination&#xA;Not personality tests. Not surveys. Interactive spaces where groups can see their own collective mind at work.&#xA;My first experiment: a tool that maps how communities think about prosperity. Users nominate ideas, vote on what to explore, then create a living map of their collective relationships. Everyone can explore the data, see the patterns, understand where alignment lives and where creative tension sparks.&#xA;[Try the prosperity mapping tool →]&#xA;Why this matters: Culture is eating software&#xA;We perfected version control for code. We created platforms where millions collaborate on open source projects. We can fork, merge, and evolve software at breathtaking speed.&#xA;Meanwhile, our social tools are stuck in the stone age. Surveys that extract data. Polls that flatten nuance. Platforms that feed on engagement instead of understanding.&#xA;What if communities could fork each other&amp;rsquo;s decision-making processes? What if the breakthrough your group had last Tuesday could be packaged, shared, and evolved by a thousand other groups? What if culture could iterate as fast as code?&#xA;The algorithm is already in you&#xA;Watch what happens when a group aligns:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/drafts/how-to-fall-in-love/</guid>
+      <description>there are no limits</description>
     </item>
     <item>
       <title>Open Source Culture</title>
       <link>http://localhost:1313/drafts/open-source-culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/drafts/open-source-culture/</guid>
-      <description>required</description>
-    </item>
-    <item>
-      <title>Power</title>
-      <link>http://localhost:1313/drafts/power/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/drafts/power/</guid>
-      <description>power</description>
-    </item>
-    <item>
-      <title>Social Physics: Contrast, Context and Continuity</title>
-      <link>http://localhost:1313/drafts/social-physics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/drafts/social-physics/</guid>
       <description>required</description>
     </item>
   </channel>

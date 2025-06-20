@@ -6,8 +6,7 @@
 
 <div class="h-screen relative w-full">
 
-  <section
-    class="hidden">
+  <section class="hidden">
     {{$Section := .Site.GetPage "section" .Section }}
     {{ with $Section }}
     <a href="{{ .Permalink }}">
@@ -42,12 +41,12 @@
       {{ $title := .Params.title }}
       <h1 class="!mb-2">{{ $title }}</h1>
 
-	  {{ if .Date }}
+      {{ if .Date }}
       <p class="text-sm text-slate-500 !mb-8"> {{ $date }}
-		{{ if ne $lastmod $date}}
-			<br/> Pruned {{ .Lastmod.Format "January 2, 2006" }}
+        {{ if ne $lastmod $date}}
+          <br/> Pruned {{ .Lastmod.Format "January 2, 2006" }}
         {{ end }}
-	  </p>
+      </p>
       {{ end }}
 
       {{ with .Params.images }}

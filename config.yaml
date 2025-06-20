@@ -5,38 +5,30 @@ module:
   imports:
     - path: github.com/apvarun/digital-garden-hugo-theme
 
-googleAnalytics: "UA-PROPERTY_ID"
-
 params:
-  description: "Experiments in Social Alorgorithms"
-  images:
-    - "/digital-garden-logo.png"
+  description: "Social Insight Tools: experiments in social alorgorithms"
+  images: 
+    - "/images/01_homepage/convergence.png"
   enableSearch: true
   contentSections:
     - "articles"
+  favicon: "/favicon.ico"
+  social-maps:
+    enabled: true
+    app_subdomain: "https://app.socialinsight.tools" 
 
 menu:
   main:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "Content"
-      params:
-        header: true
-      weight: 2
     - name: "Articles"
       url: "/articles"
       weight: 3
-    - name: "Tools"
-      url: "/tools"
-      weight: 4
     - name: "Social Maps"
       url: "/maps"
       weight: 5
-    - name: "Create"
-      url: "/creator"
-      weight: 6
-
+      
   social:
     - name: "Twitter"
       url: "https://twitter.com/markothell"
