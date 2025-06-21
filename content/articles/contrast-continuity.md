@@ -12,8 +12,8 @@ Contrast describes the ability to differentiate between states, beliefs, percept
 
 Continuity describes the ability to see how things are connected.These could be a literal sequence of actions like an algorithm to get from state a to state b. It could be a sequence of relationships that connect different parts of a system (economy connects material miner to product end user) or a series of aliancies between interest groups (think 6 degrees of separationm for cultural niches), **that allow agents to act across society without directly coordinating**. "Continuity" is the meta perception that allows us to stitching together resilient navigable connections across our culture. 
 
-Sameness creates safety. Difference inspires action.
-Contast in required for delegation. Continuity enables coordination. 
+Sameness creates safety. Difference inspires action. <br>
+Contast is required for delegation. Continuity enables coordination. 
 
 Together they act as an attention lever that we can move up and down as needed, an infinite zoom knob on the cultural microscope, allowing us to find points of leverage depending on the scale of action that is required. 
 
