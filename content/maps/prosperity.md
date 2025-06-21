@@ -1,6 +1,6 @@
 ---
-title: "Prosperity"
-summary: "Map concepts of prosperity at the intersection of scale and productivity."
+title: "What Is Prosperity?"
+summary: "Map concepts of prosperity at the intersection of scale and generativity."
 type: "map"
 date: 2025-06-18
 weight: 1
@@ -11,7 +11,8 @@ params:
   status: "active"
 ---
 
-[Go to activity](https://app.socialinsight.tools/activity/mc2chb1a_bwt2z)
+[Go to activity](https://app.socialinsight.tools/activity/mc5bltue_rdyca)<br>
+[Example version](https://app.socialinsight.tools/activity/mc58dvbn_eds5c) with dummy data just to take a tour.
 
 ### Discussion
 
