@@ -19,4 +19,4 @@ Together they act as an attention lever that we can move up and down as needed, 
 
 I write this not because it is a novel discovery in social psychology but in order try and identify the conceptual frame work for the activities here. What are they intended to do? Certainly not unify humanity. But I am imagining collectives of people able to sustain positive vision and take action towards creating it and asking, what tools do they need just to do that work for themselves? 
 
-This answer: a dynamic cultural memory system that allows them to fluidly scale resolution on their collective relationship to eachhother and the world. 
+This answer: a dynamic cultural memory system that allows them to fluidly scale resolution on their collective relationship to each other and the world. 
