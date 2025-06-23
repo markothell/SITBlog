@@ -1,7 +1,7 @@
 ---
 title: "Tool: Frame Of Reference Map"
 images: 
-- /images/frames-of-reference/form_map.png
+- /images/202506_frames-of-reference/form_map.png
 date: 2025-06-16
 ---
 
@@ -28,7 +28,7 @@ Then everyone can explore the map of their collective relationships, inspecting 
 
 This could be performed live over the course of 10 minutes or be a living interactive document that remains open and evolves over time.
 
-Current state of the app is functional. This is an interactive tool that allows communities get feedback about their current state in a way that is decentralized and can evolve over time. That being said, it is very much a work in progress. I consider this to be a minimally useful proof of concept. Here are some ways I'd like to expand its functionality:
+Current state of the app is limited but functional. This is an interactive tool that allows communities get feedback about their current state in a way that is decentralized and can evolve over time. That being said, it is very much a work in progress. I consider this to be a minimally useful proof of concept. Here are some ways I'd like to expand its functionality:
 
 Basic functional improvements
 - Authentication: for now everyone is anonymous. I'll add admin authentication soon so individuals can design their own conversations (click here for an invite). Membership for all users will be very useful when there is enough participation to begin connecting across maps. I feel like the basic idea needs validation before I can begin work in this direction though.

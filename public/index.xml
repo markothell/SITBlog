@@ -6,8 +6,15 @@
     <description>Recent content on Social Insight Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Ideologies Act</title>
+      <link>http://localhost:1313/maps/ideologies/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maps/ideologies/</guid>
+      <description>Map human conceptual system&amp;rsquo;s domain of action (material -&amp;gt; immaterial) in relationship to its key strategies (prescriptive -&amp;gt; descriptive).</description>
+    </item>
     <item>
       <title>What Is Prosperity?</title>
       <link>http://localhost:1313/maps/prosperity/</link>
