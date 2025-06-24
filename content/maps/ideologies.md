@@ -6,25 +6,26 @@ date: 2025-06-23
 weight: 1
 params:
   app_path: "/activity/mc955cxi_wsqhk" 
-  
   length: "open"
   status: "active"
 ---
 
-**Summary**: "Map of human conceptual systems' **domain of action** (material -> immaterial) in relationship to its **key strategies** (prescriptive -> descriptive)."
+**Summary**: An interactive map of human conceptual systems' **domain of action** (material -> immaterial) in relationship to its **key strategies** (prescriptive -> descriptive).
 
 [Go to activity](https://app.socialinsight.tools/activity/mc955cxi_wsqhk)
 
-<img src="/images/202506_ideologies/ideology_graph.png" alt="ideology map axes" style="display:block; width:65%;" />
-
 ## Discussion
 
-How we relate to other ideologies is a product of what we believe they do and how we think they act on the world. The divisiveness of our central ideologies suggest that these conceptual gaps are quite large (ie. what muslims think Islam does and for whom vs what western materialist scientists think and vice versa).
+The dominant ideologies of our culture have no fixed embodiment. They exist as a distribution of related ideas spread throughout the population. 
 
-Maps of culture are like maps of a landscape in that they allow you to preview the terrain and plan the most fortuitous route. I've envisioning a conversation that makes this a mutually beneficial exploration instead of an adverserial one.
+If we want to know how any nominal idea--science for example--acts on a group we need to look at the actual distribution of beliefs they hold and how they implement them. 
 
-Mutually created, living maps have an advantage over externally generated cultural analysis in the way that the process itself transforms the maps. Mutual intention, mutual sharing leads to more aligned language/stratgy which can produce a positive feedback loop of timely and honest sharing. 
+This activity's [Frame of Reference Map](/articles/frames-of-reference) is a simple demonstration of the idea. Pariticipants pick ideologies to map at the following intersection (image), and share their personal relationship with how they believe those ideas act on the collective.
 
-This map attempts to get at the core function of an ideology; not what it thinks but how it thinks. What are its embedded assumptions and how does it orient itself to them?
+<img src="/images/202506_ideologies/ideology_graph.svg" alt="ideology map axes" style="display:block; width:auto; max-width:447px;" />
+
+Maps of culture are like maps of a landscape in that they allow us to preview the terrain and plan the most fortuitous route. I've envisioning a conversation tool that makes this planning (for a journey of cultural transformation) a mutually beneficial exploration instead of an adverserial one.
+
+Maps created through open mutual process can better hold the open and collaborative aspects of ideas. Living, adaptive maps can be continually refined to represent the fluid edges of an idea where they are adapting in response to change. Together I see the potential to generate new, higher fidelity concepts and thus build more dynamic relationships. 
 
 [Go to activity](https://app.socialinsight.tools/activity/mc955cxi_wsqhk)

@@ -6,7 +6,7 @@ date: 2025-06-12
 
 June 17, 2025
 
-A **social algorithm** is a system or process enacted by and between humans, that produces transformations of perception, action, potential, and production.
+A **social algorithm** is any system or process enacted by and between humans, that produces transformations of perception, action, potential, or production.
 
 ### There exists an algorithm for human alignment.
 

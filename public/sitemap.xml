@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/maps/20250623_ideologies/</loc>
+    <loc>http://localhost:1313/maps/ideologies/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/maps/prosperity/</loc>
@@ -17,13 +17,13 @@
     <loc>http://localhost:1313/articles/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/202506_contrast-continuity/</loc>
+    <loc>http://localhost:1313/articles/contrast-continuity/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/202506_frames-of-reference/</loc>
+    <loc>http://localhost:1313/articles/frames-of-reference/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/202506_social-algorithm-manifesto/</loc>
+    <loc>http://localhost:1313/articles/social-algorithm-manifesto/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/drafts/social-algorithms/</loc>
