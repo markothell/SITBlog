@@ -16,7 +16,7 @@ Each activity takes a social pattern or idea and turns it into an interactive en
 
 <img src="/images/01_homepage/social_venn.png" alt="social tech venn diagram" style="display:block; width:65%;" />
 
-Like twitter polls in that they are user generated, social/interactive and generate data about the group. They are like social experiments in that they generate novel environments, and are structured around a question, hypothesis or intention. They model open source development in that they are designed for reciprocal inquiry, share both data and code and evolve by writing knowledge into code. 
+Like twitter polls in that they are user generated, social/interactive and generate data about the group. They are like social experiments in that they generate novel environments, and are structured around a question, hypothesis or intention. They model open source development in that they are designed for reciprocal inquiry, have open data and evolve by writing knowledge into code. 
 
 I see the natural conclusion of this work being the creation of an open source social platform for the evolution of culture and communication. For now I have a single activity that I hope will demonstrate what I mean and yield some novel conversations. It allows groups of 2-50(??) to map their collective frames of reference relating to an idea. 
 

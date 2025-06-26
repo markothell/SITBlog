@@ -6,7 +6,7 @@ date: 2025-06-12
 
 June 17, 2025
 
-A **social algorithm** is any system or process enacted by and between humans, that produces transformations of perception, action, potential, or production.
+A **social algorithm** is a system or process enacted by and between humans, that allows us to do new things. It's like culture technology. 
 
 ### There exists an algorithm for human alignment.
 
@@ -41,5 +41,5 @@ But also, culture represents character; how it feels to be and work in a city, j
 I want to unify these, to close the gap between the seeking, the experimenting, the spread of insights across the population, and our ability to create lasting meaning while also allowing that meaning to evolve. These can all be part of a conscious collective relationship, a game we play together that adds resolution to what we hold beautiful, that allows us to share in the pride and joy of being human. 
 
 
-Let's fucking go!
+Let's fucking go!<br>
 Mo
