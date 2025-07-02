@@ -6,8 +6,15 @@
     <description>Recent content in Articles on Social Insight Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meme &#43; Data = Social Learning</title>
+      <link>http://localhost:1313/articles/meme&#43;data/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/meme&#43;data/</guid>
+      <description>&lt;p&gt;The tools of data analysis and visualization have penetrated deep into the world of online communication, traversing the space between formal scientific study data (1), to neatly encapsulated social theory (2) to a familiar format for making jokes about our culture (3).&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/202506_meme+data/data.png&#34; alt=&#34;Raw Data Graph&#34; style=&#34;display:block; width:auto; max-width:50%;&#34; /&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Conceptual tool:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/202506_meme+data/quadrants.webp&#34; alt=&#34;Attachment Theory Quadrants&#34; style=&#34;display:block; width:auto; max-width:50%;&#34; /&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Joke framework:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/202506_meme+data/meme.jpg&#34; alt=&#34;Quadrant Meme&#34; style=&#34;display:block; width:auto; max-width:50%;&#34; /&gt;&#xA;&lt;p&gt;There are many definitions of &amp;lsquo;meme&amp;rsquo;. In this case, I&amp;rsquo;ll discuss &amp;lsquo;meme&amp;rsquo; not as the image or the joke but the cultural pattern used to compress complex ideas into a simple communicative snapshot.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unification: Contrast &#43; Continuity</title>
       <link>http://localhost:1313/articles/contrast-continuity/</link>

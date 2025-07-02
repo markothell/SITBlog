@@ -41,5 +41,5 @@ But also, culture represents character; how it feels to be and work in a city, j
 I want to unify these, to close the gap between the seeking, the experimenting, the spread of insights across the population, and our ability to create lasting meaning while also allowing that meaning to evolve. These can all be part of a conscious collective relationship, a game we play together that adds resolution to what we hold beautiful, that allows us to share in the pride and joy of being human. 
 
 
-Let's fucking go!<br>
+With love,<br>
 Mo

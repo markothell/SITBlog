@@ -6,7 +6,7 @@
     <description>Recent content on Social Insight Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Ideologies Act</title>
@@ -21,6 +21,13 @@
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/maps/prosperity/</guid>
       <description>Map concepts of prosperity at the intersection of scale and generativity.</description>
+    </item>
+    <item>
+      <title>Meme &#43; Data = Social Learning</title>
+      <link>http://localhost:1313/articles/meme&#43;data/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/meme&#43;data/</guid>
+      <description>&lt;p&gt;The tools of data analysis and visualization have penetrated deep into the world of online communication, traversing the space between formal scientific study data (1), to neatly encapsulated social theory (2) to a familiar format for making jokes about our culture (3).&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Raw data:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/202506_meme+data/data.png&#34; alt=&#34;Raw Data Graph&#34; style=&#34;display:block; width:auto; max-width:50%;&#34; /&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Conceptual tool:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/202506_meme+data/quadrants.webp&#34; alt=&#34;Attachment Theory Quadrants&#34; style=&#34;display:block; width:auto; max-width:50%;&#34; /&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Joke framework:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/202506_meme+data/meme.jpg&#34; alt=&#34;Quadrant Meme&#34; style=&#34;display:block; width:auto; max-width:50%;&#34; /&gt;&#xA;&lt;p&gt;There are many definitions of &amp;lsquo;meme&amp;rsquo;. In this case, I&amp;rsquo;ll discuss &amp;lsquo;meme&amp;rsquo; not as the image or the joke but the cultural pattern used to compress complex ideas into a simple communicative snapshot.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unification: Contrast &#43; Continuity</title>
@@ -42,6 +49,13 @@
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/social-algorithm-manifesto/</guid>
       <description>There exists an algorithm for human alignment</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/drafts/social-algorithm-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/drafts/social-algorithm-platform/</guid>
+      <description>&lt;h2 id=&#34;a-social-algorithm-platform&#34;&gt;A social algorithm platform&lt;/h2&gt;&#xA;&lt;p&gt;Social Insight Tools (SIT) is an attempt to describe a cultural learning system comprised of experimental social activities; mini social apps connected by a common framework, evolving through  through open iteration and shared data.&lt;/p&gt;&#xA;&lt;p&gt;Activities are similar to parts of social media in that they are places for chatting, proposing ideas, surveying community members and listening in on the group’s conversation. A twitter poll is an activity. An online workshop is an activity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>1. Social Algorithms</title>
