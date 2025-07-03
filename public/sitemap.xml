@@ -8,14 +8,17 @@
     <loc>http://localhost:1313/maps/prosperity/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/meme&#43;data/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/maps/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/contrast-continuity/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
@@ -25,6 +28,8 @@
   </url><url>
     <loc>http://localhost:1313/articles/social-algorithm-manifesto/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/drafts/social-algorithm-platform/</loc>
   </url><url>
     <loc>http://localhost:1313/drafts/social-algorithms/</loc>
   </url><url>

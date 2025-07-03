@@ -17,6 +17,8 @@ params:
     enabled: true
     app_subdomain: "https://app.socialinsight.tools" 
 
+googleAnalytics: "G-S05SJ7QZ43"
+
 menu:
   main:
     - name: "Home"
@@ -28,7 +30,7 @@ menu:
     - name: "Social Maps"
       url: "/maps"
       weight: 5
-      
+
   social:
     - name: "Twitter"
       url: "https://twitter.com/markothell"
