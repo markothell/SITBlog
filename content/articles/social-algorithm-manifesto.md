@@ -1,10 +1,8 @@
 ---
 title: Social Algorithm Manifesto
 summary: There exists an algorithm for human alignment
-date: 2025-06-12
+date: 2025-06-17
 ---
-
-June 17, 2025
 
 A **social algorithm** is a system or process enacted by and between humans, that allows us to do new things. It's like culture technology. 
 

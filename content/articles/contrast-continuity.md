@@ -10,7 +10,7 @@ In this case unification does not describe homogeneity--one perception, one inte
 
 Contrast describes the ability to differentiate between states, beliefs, perceptions--both across the span of humanity as well as within identity groups--to introspect as collectives. The simplest version of this is just the creation of categories. This feels pretty obvious and is our current cultural default. 
 
-Continuity describes the ability to see how things are connected.These could be a literal sequence of actions like an algorithm to get from state a to state b. It could be a sequence of relationships that connect different parts of a system (economy connects material miner to product end user) or a series of aliancies between interest groups (think 6 degrees of separationm for cultural niches), **that allow agents to act across society without directly coordinating**. "Continuity" is the meta perception that allows us to stitching together resilient navigable connections across our culture. 
+Continuity describes the ability to see how things are connected.These could be a literal sequence of actions like an algorithm to get from state a to state b. It could be a sequence of relationships that connect different parts of a system (economy connects material miner to product end user) or a series of aliancies between interest groups (think 6 degrees of separation for cultural niches), **that allow agents to act across society without directly coordinating**. "Continuity" is the meta perception that allows us to stitching together resilient navigable connections across our culture. 
 
 Sameness creates safety. Difference inspires action. <br>
 Contast is required for delegation. Continuity enables coordination. 
